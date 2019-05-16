@@ -115,21 +115,24 @@ And I greatly enjoy doing things differently than "the masses" do it (maybe that
 > To me, bicycle touring is about as close to total self-sufficiency as one can get while having a certain amount of mobility. I suppose the ultimate would be to go someplace and live off the land but that usually puts you into competition with the coyote!
 {:class="clearfix"}
 
-- Jim Foreman ![](https://web.archive.org/web/20150208154310if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=JimForeman.jpg )
 
 ----
 
-> **Why do I tour?**
-I tour because I love every aspect of it.
-**Physical Challenge**
-I like to challenge myself. As I spent most of pre 40’s laying on the couch, my challenge is not severe. I have gone from fat and flabby to reasonably fit recently. I found my desire to tour more effectively was more of an inspiration to get in shape than worrying about the long term consequence of fat and flabby. Now I feel I could tour forever if life permitted. Last year I wanted to cut the cost of touring and up the physical challenge so I migrated from the credit card group to the fully loaded group.
-**Planning**
-This is an enjoyable activity when it is too cold to ride. I pour over maps and read every journal of anyone who has toured the areas I have selected. The journals are inspirational and informative. If there is one thing that “got me going” it was the online journals. Now that I have some experience on the road, I plan in great detail and then use it as a rough guide once I am on the road.
-**Exploring**
-Roads that I have never traveled have great appeal. 
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/jim-oliver.jpg"  alt = "Jim Oliver" />
+  <figcaption>Jim Oliver</figcaption>
+</figure> 
 
-- Jim Oliver ![](https://web.archive.org/web/20111015190212if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=JimOliver.jpg)
+> **Why do I tour?**  
+I tour because I love every aspect of it.  
+**Physical Challenge**  
+I like to challenge myself. As I spent most of pre 40’s laying on the couch, my challenge is not severe. I have gone from fat and flabby to reasonably fit recently. I found my desire to tour more effectively was more of an inspiration to get in shape than worrying about the long term consequence of fat and flabby. Now I feel I could tour forever if life permitted. Last year I wanted to cut the cost of touring and up the physical challenge so I migrated from the credit card group to the fully loaded group.  
+**Planning**  
+This is an enjoyable activity when it is too cold to ride. I pour over maps and read every journal of anyone who has toured the areas I have selected. The journals are inspirational and informative. If there is one thing that “got me going” it was the online journals. Now that I have some experience on the road, I plan in great detail and then use it as a rough guide once I am on the road.  
+**Exploring**  
+Roads that I have never traveled have great appeal.   
 
+----
 
 ## Bicycle Touring Methods
 Humans seem to like to categorize things. Like with so many other activities people have also tried to categorize touring. 
@@ -138,7 +141,10 @@ In reality I believe that while there are some general statements that can be ma
 However since you are reading this as a presumably potential bicycle tourist I'll list some of the major designations that often come up.
 
 ### Paid touring adventures and sag wagon touring
-![](https://web.archive.org/web/20111128094110if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=JimForemanGeezersSagTour.jpg)
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/paid-touring.jpg"  alt = "Paid Touring" />
+  <figcaption></figcaption>
+</figure> 
 This category usually refers to people who ride with a touring company. Often the cyclists pay a fee and in exchange the route is preplanned for them and their non-bicycle equipment is carried for them in a motorized vehicle. The motorized vehicle is referred to as a sag wagon.
 Sometimes these tours include paid guides in addition to the preplanned route maps. Often breakfast and supper are provided with the expectation that lunch will be discovered by the cyclist on the open road.
 Another variation of this type of tour is for a family member or a friend to drive the sag wagon to each day's destination while the cyclist follows the route they have planned for the day.
