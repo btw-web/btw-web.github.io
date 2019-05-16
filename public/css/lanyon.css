@@ -106,6 +106,8 @@ figcaption,p {
     *zoom: 1
 }
 
+figure {margin-left:5px}
+
 /*
  * Container
  *
