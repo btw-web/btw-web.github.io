@@ -210,7 +210,7 @@ This is a very common question that many people ask when they first hear that pe
 For me the answer is an emphatic no. Personally I think taking a shower is more dangerous on an ongoing and regular basis. 
 This doesn't mean that there aren't things to consider so let's discuss them a bit.
 
-**1) Violent crime, muggings etc**
+**1) Violent crime, muggings etc**  
 I find that most of the time when travelling by bicycle I tend to avoid the major cities where crime is much more likely to be an issue. 
 This avoidance isn't generally performed out of fear of attack but rather a desire to get out into the open country, 
 view the beautiful scenery and get away from the scenes that most of us see on a daily basis.
@@ -224,7 +224,7 @@ Detroit was more about the hype of the city then any particular incident that ha
 In reality travelling anywhere on bicycle often feels safer then when you are insulated away from the world in a car. 
 You meet many more people and get a sense for the vibe of a place.
 
-**2) Distance from repair shops**
+**2) Distance from repair shops**  
 Learning how to repair or jury-rig your bicycle is something that definately should be considered when planning your tours. 
 The repair section of this article will discuss this in more detail but I believe that there are four very common critical problems that tend 
 to occurr on a touring bicycle.
@@ -249,7 +249,7 @@ Of course these problems can be prepared for in advance by reading a good repair
 taking a bicycle repair course, performing routine maintenance on your bike or playing around with an old beater bike. 
 You don't have to wait for a problem to occurr you know!
 
-**3) Distance from medical aid**
+**3) Distance from medical aid**  
 Let's pretend for a moment that you live by yourself. Suppose you got up early in the morning after a late night programming on your computer. 
 Just barely awake you slip while stepping into the shower. In the process of falling down you become severely injured. 
 How likely is it that someone will be able to help you in a very short period of time?
@@ -262,7 +262,7 @@ Just like with bike repair you can prepare to some extent by learning about firs
 
 Personally I intend to take a Wilderness first aid course soon to continue to expand my knowledge.
 
-**4) Dangerous animals - Lions, tigers and bears**
+**4) Dangerous animals - Lions, tigers and bears**  
 Beginning tourists often seem to worry about wild animals.
 
 For me personally my scariest encounter with wild life while on tour occured at around 2:00 AM in Geneva State Park in Ohio. 
@@ -272,7 +272,7 @@ I've seen bears on tour but so far they've run away from me faster then I've bee
 According to the statistics there have been around 36 humans killed by bears in the past fifty years.
 From reading touring journals I know that snakes etc are a concern when riding in Australia.
 
-**5) Adverse weather - Rain, snow, sleet, hail etc**
+**5) Adverse weather - Rain, snow, sleet, hail etc**  
 Everyone seems to worry about the weather. I find that when I am on a long tour I don't concern myself too much with the weather forecast.
 Instead I carry the appropriate gear, whether it's rain gear or clothing for hot and cold conditions.
 Perhaps I've been lucky but so far I've found that on tour I typically experience very little rain during the day. 
