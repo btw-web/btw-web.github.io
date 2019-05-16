@@ -63,20 +63,22 @@ Of course so far this has all been my opinion so continue on to the next page to
 <figure class = "fig_leftimg">  
   <img src = "/public/images/{{page.slug}}/ian-lindridge.jpg"  alt = "Ian Lindridge" />
   <figcaption>Ian Lindridge</figcaption>
-</figure>  
+</figure>
+
 > I think the physical challenge is most important. The sense of exploration and Adventure satisfies immensely. I could meet as many people at the overnights traveling comfortably by car or RV but I would miss the people opportunities along the way as water and food stops are absolutely essential.
 Something new, interesting, and a little bit scary is important too. And perhaps really most important at this time I have an interest in things with wheels powered by people and this is merely one aspect of that interest.
 So this whole interest is one of life's chance directions? Being in the elements (wind, rain, sun), the smells, and 'feel of the land' is important too, part of the experience. Each to our own, I guess!
 
-
+<hr class = "clearfix" />
 
 <figure class = "fig_leftimg">  
   <img src = "/public/images/{{page.slug}}/david-miller.jpg"  alt = "David Miller" />
   <figcaption>David Miller</figcaption>
 </figure> 
+
 > A huge part of the fun for me is being away from telephones, computers, newpapers and just everything and everyone that I know.... hum.... maybe the kids are right. please send me your extra medication!
 
-----
+<hr class = "clearfix" />
 
 > I enjoy the challenge, though as we've all discovered, touring isn't a huge physical defiance of one's limitations, really. It's more a matter of being prepared for anything and being stubborn enough to keep going. I think the 'challenge' aspect is part of why my tours so far have all been 'around' something - there's a goal in mind.
 I enjoy the escapism. I work in a fairly stressful environment (pager/phone/email 24/7, big business consequences of outages, etc) and really like being 'out of range' for a while now and then.
