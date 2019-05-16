@@ -65,6 +65,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+img:not(.wnot) {
+    width: 100%;
+    max-width: 100%
+}
+
+figcaption {
+    font-size: 12px;
+    line-height: 15px;
+    color: #333;
+    font-style: italic
+}
+
+figcaption,p {
+    margin-top: 5px
+}
+
+.fig_leftimg {
+    width: 35%;
+    float: left;
+    margin-right: 20px
+}
+
+.fig_rightimg {
+    width: 35%;
+    float: right;
+    margin-left: 20px
+}
+
+
 /*
  * Container
  *
