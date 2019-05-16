@@ -60,7 +60,7 @@ Personally I think that the insane ones are those who never push their limits, n
 Of course so far this has all been my opinion so continue on to the next page to find out what other bicycle tourists had to say!
 
 ### Quotes from other travelers
-<figure class = "fig_leftimg">  
+<figure class = "fig_leftimg clearfix">  
   <img src = "/public/images/{{page.slug}}/ian-lindridge.jpg"  alt = "Ian Lindridge" />
   <figcaption>Ian Lindridge</figcaption>
 </figure>
@@ -71,7 +71,7 @@ So this whole interest is one of life's chance directions? Being in the elements
 
 <hr class = "clearfix" />
 
-<figure class = "fig_leftimg">  
+<figure class = "fig_leftimg clearfix">  
   <img src = "/public/images/{{page.slug}}/david-miller.jpg"  alt = "David Miller" />
   <figcaption>David Miller</figcaption>
 </figure> 
