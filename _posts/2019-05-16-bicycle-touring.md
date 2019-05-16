@@ -150,17 +150,26 @@ Sometimes these tours include paid guides in addition to the preplanned route ma
 Another variation of this type of tour is for a family member or a friend to drive the sag wagon to each day's destination while the cyclist follows the route they have planned for the day.
 
 ### Credit card or lightly loaded touring
-![](https://web.archive.org/web/20111128094853if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=MaryShawLightTour.jpg)
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/light-touring.jpg"  alt = "Light Touring" />
+  <figcaption></figcaption>
+</figure> 
 Credit card or lightly loaded touring generally refer to a type of touring where the cyclist carries minimal gear on the bike. Usually the gear consists of some clothing and repair tools. At the end of each day the cyclist finds a motel or other lodging. Meals are consumed in restaurants, sub shops and deli's along the way.
 Of course the name "credit card touring" comes from the implied use of credit cards to cover the lodging and meals.
 
 ### Self contained/fully loaded touring
-![](https://biketouringacademy.com/images/misc/loaded-touring-bikes/loaded-touring-bikes-6/loaded-touring-bikes-6-768w.jpg)
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/loaded-touring.jpg"  alt = "Loaded Touring" />
+  <figcaption></figcaption>
+</figure> 
 Self contained or fully loaded touring is a type of touring where all needed equipment is carried on the bike. This includes shelter, cooking equipment, bicyle repair tools, maps, food and anything else that the cyclist feels is necessary to make their journey a success.
 Fully loaded bikes can weigh anywhere from 50 to 100+ pounds when fully loaded.
 
 ### Ultralight touring *??*
-![](https://web.archive.org/web/20111128084055if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=JeanieBarnettLightTouring.jpg)
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/ul-touring.jpg"  alt = "Ultralight Touring" />
+  <figcaption></figcaption>
+</figure> 
 Jeanie first proposed this category using the term "unencumbered" to describe it. She provided the following definition for this:
 Unencumbered touring: Baggage < 16.5 lbs"
 Kent suggested ultra-light or light-weight touring when providing his picture of a minimal camp.
@@ -175,7 +184,7 @@ By looking around at the journals on ![](crazyguyonabike.com) you will quickly d
 
 Here's a link to a journal index page for touring journals covering from six to twelve months of time on the road:
 
-![](http://www.crazyguyonabike.com/journal/?category_id=225)
+![link](http://www.crazyguyonabike.com/journal/?category_id=225)
 
 Here's another link with journals lasting for even longer periods of time:
 
@@ -205,7 +214,12 @@ Blown out tube
 Another potential candidate for this list would be a chain breaking.
 
 Although there are definately other types of problems that can occurr it is surprising how well you can fix most of them using duct tape, tie wraps, some patience and a few minutes of careful thought.
-![](https://web.archive.org/web/20111015230001if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=DaveMcLeod.jpg)
+
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/flat-tires.jpg"  alt = "Flat Tires" />
+  <figcaption></figcaption>
+</figure> 
+
 Some people think of these problems as disasters. I prefer to think of these as "adventures" since I almost always come out of the incident knowing far more then before the problem occurred.
 Of course these problems can be prepared for in advance by reading a good repair book, taking a bicycle repair course, performing routine maintenance on your bike or playing around with an old beater bike. You don't have to wait for a problem to occurr you know!
 
