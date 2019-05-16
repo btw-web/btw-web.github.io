@@ -68,6 +68,7 @@ Of course so far this has all been my opinion so continue on to the next page to
 > I think the physical challenge is most important. The sense of exploration and Adventure satisfies immensely. I could meet as many people at the overnights traveling comfortably by car or RV but I would miss the people opportunities along the way as water and food stops are absolutely essential.
 Something new, interesting, and a little bit scary is important too. And perhaps really most important at this time I have an interest in things with wheels powered by people and this is merely one aspect of that interest.
 So this whole interest is one of life's chance directions? Being in the elements (wind, rain, sun), the smells, and 'feel of the land' is important too, part of the experience. Each to our own, I guess!
+{:class="clearfix"}
 
 <hr class = "clearfix" />
 
@@ -77,6 +78,7 @@ So this whole interest is one of life's chance directions? Being in the elements
 </figure> 
 
 > A huge part of the fun for me is being away from telephones, computers, newpapers and just everything and everyone that I know.... hum.... maybe the kids are right. please send me your extra medication!
+{:class="clearfix"}
 
 <hr class = "clearfix" />
 
@@ -85,6 +87,7 @@ I enjoy the escapism. I work in a fairly stressful environment (pager/phone/emai
 I enjoy camping and being out in the big world. Being on a bike, or in a tent, seems so much more blithesome than being inside a car or a house. You see so much more at a bicycle's speed. And when you get somewhere under your own power, you've really gotten there, rather just having arrived.
 I enjoy navigating and figuring out where to go and what to do based on what's happening at that moment. Incidentals such as head winds, tail winds, flat tires, broken deraileurs, road construction, or a host of other things beyond your control all influence where I'll end up that day, and in the long run none of them are really negatives.
 Why do I tour? It's complicated, and maybe my reasons for touring will continue to evolve, but I think the above sums it up for me.
+{:class="clearfix"}
 
 - Brian Huntley
 
