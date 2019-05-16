@@ -60,7 +60,7 @@ Personally I think that the insane ones are those who never push their limits, n
 Of course so far this has all been my opinion so continue on to the next page to find out what other bicycle tourists had to say!
 
 ### Quotes from other travelers
-<figure class = "fig_leftimg clearfix">  
+<figure class = "fig_leftimg">  
   <img src = "/public/images/{{page.slug}}/ian-lindridge.jpg"  alt = "Ian Lindridge" />
   <figcaption>Ian Lindridge</figcaption>
 </figure>
@@ -70,9 +70,9 @@ Something new, interesting, and a little bit scary is important too. And perhaps
 So this whole interest is one of life's chance directions? Being in the elements (wind, rain, sun), the smells, and 'feel of the land' is important too, part of the experience. Each to our own, I guess!
 {:class="clearfix"}
 
-<hr class = "clearfix" />
+----
 
-<figure class = "fig_leftimg clearfix">  
+<figure class = "fig_leftimg">  
   <img src = "/public/images/{{page.slug}}/david-miller.jpg"  alt = "David Miller" />
   <figcaption>David Miller</figcaption>
 </figure> 
@@ -80,7 +80,7 @@ So this whole interest is one of life's chance directions? Being in the elements
 > A huge part of the fun for me is being away from telephones, computers, newpapers and just everything and everyone that I know.... hum.... maybe the kids are right. please send me your extra medication!
 {:class="clearfix"}
 
-<hr class = "clearfix" />
+----
 
 > I enjoy the challenge, though as we've all discovered, touring isn't a huge physical defiance of one's limitations, really. It's more a matter of being prepared for anything and being stubborn enough to keep going. I think the 'challenge' aspect is part of why my tours so far have all been 'around' something - there's a goal in mind.
 I enjoy the escapism. I work in a fairly stressful environment (pager/phone/email 24/7, big business consequences of outages, etc) and really like being 'out of range' for a while now and then.
@@ -91,20 +91,33 @@ Why do I tour? It's complicated, and maybe my reasons for touring will continue 
 
 - Brian Huntley
 
+----
+
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/wayne-estes.jpg"  alt = "Wayne Estes" />
+  <figcaption>Wayne Estes</figcaption>
+</figure> 
 
 > I tour because I like to ride my bike, and I like to ride my bike in interesting, new, scenic places.
 I really like the independence of self-contained touring where (in theory) I can camp anywhere. And I strongly prefer solo touring because I get to set the agenda with very few compromises (totally selfish, some might say).
 I like being able to travel cheaply, but I also like having enough money to stay in a motel if I feel like it, and having enough money for a restaurant meal every day if a restaurant is on the route.
 I feel a great sense of accomplishment after doing a multi-day tour with all the movement provided by my own muscles.
 And I greatly enjoy doing things differently than "the masses" do it (maybe that's why I like recumbents). I really don't like highly structured tours, or at least I don't like tours where the structure is imposed by somebody else. That's why I have a preference for independent solo touring, and have very little interest in "guided" touring or large group tours of any kind.
+{:class="clearfix"}
 
-- Wayne Estes ![](https://web.archive.org/web/20111015222657if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=WayneEstes.jpg)
+----
 
+<figure class = "fig_leftimg">  
+  <img src = "/public/images/{{page.slug}}/jim-foreman.jpg"  alt = "Jim Foreman" />
+  <figcaption>Jim Foreman</figcaption>
+</figure> 
 
 > To me, bicycle touring is about as close to total self-sufficiency as one can get while having a certain amount of mobility. I suppose the ultimate would be to go someplace and live off the land but that usually puts you into competition with the coyote!
+{:class="clearfix"}
 
-- Jim Foreman ![](https://web.archive.org/web/20150208154310if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=JimForeman.jpg)
+- Jim Foreman ![](https://web.archive.org/web/20150208154310if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=JimForeman.jpg )
 
+----
 
 > **Why do I tour?**
 I tour because I love every aspect of it.
