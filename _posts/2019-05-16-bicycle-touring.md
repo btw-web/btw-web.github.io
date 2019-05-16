@@ -64,7 +64,12 @@ Of course so far this has all been my opinion so continue on to the next page to
 Something new, interesting, and a little bit scary is important too. And perhaps really most important at this time I have an interest in things with wheels powered by people and this is merely one aspect of that interest.
 So this whole interest is one of life's chance directions? Being in the elements (wind, rain, sun), the smells, and 'feel of the land' is important too, part of the experience. Each to our own, I guess!
 
-- Ian Lindridge ![](https://web.archive.org/web/20111015190225if_/http://bicycletouring101.com/getimage.php?w=800&o=no&i=IanLindridge.jpg)
+<figure class = "fig_leftimg">  
+  <img
+      src = "/public/images/{{page.slug}}/ian-lindridge.jpg"
+      alt = "Ian Lindridge" />
+  <figcaption>Ian Lindridge</figcaption>
+</figure>  
 
 
 > A huge part of the fun for me is being away from telephones, computers, newpapers and just everything and everyone that I know.... hum.... maybe the kids are right. please send me your extra medication!
