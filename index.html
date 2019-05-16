@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+---
+
+<div class="posts">
+  {% for post in site.posts reversed %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ site.url }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    <div>
+    <img src = "/public/cover/{{ post.image }}.png" align="left" class = "cover_img" >
+    <p>{{ post.excerpt  | strip_html  | truncatewords:35 }}</p>
+    </div>
+  </div>
+  <hr />
+  {% endfor %}
+</div>
+

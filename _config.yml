@@ -1,0 +1,14 @@
+title:               Bike Touring World
+desc: site desc yml
+tagline:             'The Ultimate Resource for Bicycle Touring'
+description:         'Bike Touring World - The Ultimate Resource for Bicycle Touring'
+url:                 http://localhost:4000
+baseurl:             ''
+permalink: '/:title.html'
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  
+excerpt_separator: "<!-- more -->"
+exclude: [jekyll-serve.bat]
