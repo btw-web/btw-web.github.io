@@ -89,7 +89,7 @@ I enjoy navigating and figuring out where to go and what to do based on what's h
 Why do I tour? It's complicated, and maybe my reasons for touring will continue to evolve, but I think the above sums it up for me.
 {:class="clearfix"}
 
-- Brian Huntley
+&mdash; Brian Huntley
 
 ----
 
