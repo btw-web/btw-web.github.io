@@ -150,7 +150,7 @@ Sometimes these tours include paid guides in addition to the preplanned route ma
 Another variation of this type of tour is for a family member or a friend to drive the sag wagon to each day's destination while the cyclist follows the route they have planned for the day.
 
 ### Credit card or lightly loaded touring
-<figure class = "fig_leftimg">  
+<figure class = "">  
   <img src = "/public/images/{{page.slug}}/light-touring.jpg"  alt = "Light Touring" />
   <figcaption></figcaption>
 </figure> 
