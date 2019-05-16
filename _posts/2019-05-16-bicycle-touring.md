@@ -7,8 +7,6 @@ desc: Bicycle touring refers to using a bicycle to travel long distances carryin
 image: 1
 ---
 
-![](https://biketouringworld.com/public/cover/1.png)
-
 
 ## What is bicycle touring?
 
