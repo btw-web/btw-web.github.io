@@ -10,11 +10,13 @@ image: 1
 
 ## What is bicycle touring?
 
-Bicycle touring refers to using a bicycle to travel long distances carrying whatever gear you believe you need in the process.
-This section will cover off both what touring is and why people tour. Common concerns like safety, wildlife and weather are discusses as well as how far people actual travel using bicycles.
+Bicycle touring refers to using a **bicycle to travel long distances** carrying whatever gear you believe you need in the process.
+This section will cover off both what touring is and why people tour. 
+Common concerns like safety, wildlife and weather are discusses as well as **how far people actual travel using bicycles.**
 There are numerous ways to tour so a page has been included to give you a sense of the huge variety of touring methods available.
 
-Moni Neville stepped forward to provide her own explanation of what touring is. Moni completed crossing the United States from the Pacific Ocean to the Atlantic Ocean by bicycle.
+Moni Neville stepped forward to provide her own explanation of what touring is. 
+Moni completed crossing the United States from the Pacific Ocean to the Atlantic Ocean by bicycle.
 Here's what she had to say....
 <!-- more -->
 > "Touring is about discovering areas while riding my bike either alone or with others.
@@ -30,8 +32,7 @@ Touring is also about spending lots of time with my daughter. We tour often toge
 Lots of times we finish each others sentences and we share laughs, clothes and shelter.
 Life is easy on the road! One gets to ride ones bike every day except the days we take as rest days. Even then we get to spend time with our bike cleaning and lubing and such.
 That is mostly what touring is about for me!"
-
-Moni Neville
+&mdash; Moni Neville
 
 ## Why go on a bicycle tour?
 
@@ -43,6 +44,7 @@ Some of these crazy people actually cross countries, continents and occasionally
 Despite your best intentions you've found yourself reading this page hoping to understand why people would willingly inflict that level of apparent pain, 
 loneliness and hard work upon themselves. To make it worse from your viewpoint they normally do this during holidays. 
 Some people even take a Leave of Absence or quit their jobs to fulfill this need.
+
 This article is all about touring. The 101 is commonly thought of as meaning an introductory course.
 In a way the 101 does indeed stand for that in this article but it also stands for the 101+ personal opinions you are going to read from me and others 
 while you work your way through this article.
@@ -53,23 +55,28 @@ So lets get on to answering those burning questions.
 Everybody has a collection of reasons for going on a tour.
 For some it's the opportunity to explore the countryside at a reasonable speed that allows you to savour every hill, 
 river and wildlife sighting along the way.
+
 For others it's an opportunity to enjoy some quiet time and get away from the press of everyday life so that when you 
 return you are fully recharged and ready to go once again. Sometimes a tour consists of an opportunity to ride with a group of good 
 friends enjoying adventure together.
+
 Yet another reason that comes to mind is the opportunity to meet people on your travels and get to know them on a more personal 
 level then you would had you driven your car.
+
 Some people just like to ride their bike.
-For me touring is all of the above.
+
+**For me touring is all of the above.**
+
 I have toured with friends and had a great time sharing an adventure.
 Other times I have traveled solo around some of the greatest lakes in the world meeting numerous people and having incredible experiences all along the way.
 
 **Are they nuts?**
 
-I would like the think that what other people call insane we call "living life to it's fullest". 
+I would like the think that what other people call insane we call *"living life to it's fullest". *
 If doing unconventional things that bring you completely alive means carrying a label of insanity then that's fine with me.
 Personally I think that the insane ones are those who never push their limits, never do something outside of their safe limits and in 
 the process see life pass them by!
-Of course so far this has all been my opinion so continue on to the next page to find out what other bicycle tourists had to say!
+Of course so far this has all been my opinion so continue on to the next page to find out what other **bicycle tourists** had to say!
 
 ### Quotes from other travelers
 <figure class = "fig_leftimg">  
@@ -160,8 +167,10 @@ However since you are reading this as a presumably potential bicycle tourist I'l
 </figure> 
 This category usually refers to people who ride with a touring company. Often the cyclists pay a fee and in exchange the route is preplanned 
 for them and their non-bicycle equipment is carried for them in a motorized vehicle. The motorized vehicle is referred to as a sag wagon.
+
 Sometimes these tours include paid guides in addition to the preplanned route maps. 
 Often breakfast and supper are provided with the expectation that lunch will be discovered by the cyclist on the open road.
+
 Another variation of this type of tour is for a family member or a friend to drive the sag wagon to each day's destination 
 while the cyclist follows the route they have planned for the day.
 
@@ -170,17 +179,17 @@ while the cyclist follows the route they have planned for the day.
   <img src = "/public/images/{{page.slug}}/light-touring.jpg"  alt = "Light Touring" />
   <figcaption></figcaption>
 </figure> 
-Credit card or lightly loaded touring generally refer to a type of touring where the cyclist carries minimal gear on the bike. 
+Credit card or **lightly loaded touring** generally refer to a type of touring where the cyclist carries minimal gear on the bike. 
 Usually the gear consists of some clothing and repair tools. At the end of each day the cyclist finds a motel or other lodging. 
 Meals are consumed in restaurants, sub shops and deli's along the way.
-Of course the name "credit card touring" comes from the implied use of credit cards to cover the lodging and meals.
+Of course the name **"credit card touring"** comes from the implied use of credit cards to cover the lodging and meals.
 
 ### Self contained/fully loaded touring
 <figure class = "fig_leftimg">  
   <img src = "/public/images/{{page.slug}}/loaded-touring.jpg"  alt = "Loaded Touring" />
   <figcaption></figcaption>
 </figure> 
-Self contained or fully loaded touring is a type of touring where all needed equipment is carried on the bike. 
+**Self contained or fully loaded touring** is a type of touring where all needed equipment is carried on the bike. 
 This includes shelter, cooking equipment, bicyle repair tools, maps, food and anything else that the cyclist feels is necessary to make 
 their journey a success.
 Fully loaded bikes can weigh anywhere from 50 to 100+ pounds when fully loaded.
@@ -192,28 +201,31 @@ Fully loaded bikes can weigh anywhere from 50 to 100+ pounds when fully loaded.
 </figure> 
 From the wikipedia: 
 > Differs from credit card touring in that the rider is self-sufficient but carries only the bare essentials and no frills.
+<br><br><br>
+<br><br><br>
 
 ## Doing the distance.... Just how far do people ride their bikes anyway?
 A tour can be anything from a short and laid back two day, 50 km (or less) adventure right through to a multiple week, 
-month or year journey encompassing thousands or tens of thousands of kilometers.
+month or year journey encompassing **thousands or tens of thousands of kilometers.**
 
 Crazyguyonabike is a website that focuses on giving bicycling tourists an easy way to share their journeys with others. 
 There are journals residing on the website about tours in all different parts of the world.
 
-By looking around at the journals on [crazyguyonabike.com](crazyguyonabike.com) you will quickly discover weekend trips and cross country adventures all 
-sharing the same peaceful web space.
+By looking around at the journals on [crazyguyonabike.com](http://crazyguyonabike.com){:target="_blank" rel="nofollow"} 
+you will quickly discover weekend trips and cross country adventures all sharing the same peaceful web space.
 
-A little bit more searching on the internet will reveal cycling tourists who have been out circling the world for tens of thousands of kilometers and 30+ years. Here's one example:
+A little bit more searching on the internet will reveal **cycling tourists** who have been out circling the world for 
+tens of thousands of kilometers and 30+ years. Here's one example:
 
-[Heinz Stucke](http://www.bikechina.com/heinzstucke1z.html)
+[Heinz Stucke](http://www.bikechina.com/heinzstucke1z.html){:target="_blank" rel="nofollow"} 
 
 ## Isn't it dangerous?
 This is a very common question that many people ask when they first hear that people are touring on bicycles.
 For me the answer is an emphatic no. Personally I think taking a shower is more dangerous on an ongoing and regular basis. 
 This doesn't mean that there aren't things to consider so let's discuss them a bit.
 
-**1) Violent crime, muggings etc**  
-I find that most of the time when travelling by bicycle I tend to avoid the major cities where crime is much more likely to be an issue. 
+**1. Violent crime, muggings etc**  
+I find that most of the time when *travelling by bicycle* I tend to avoid the major cities where crime is much more likely to be an issue. 
 This avoidance isn't generally performed out of fear of attack but rather a desire to get out into the open country, 
 view the beautiful scenery and get away from the scenes that most of us see on a daily basis.
 
@@ -223,10 +235,10 @@ could easily have been avoided with a little bit more situational awareness on m
 no theft or other crime occurred and I experienced a bit of an adventure.
 Detroit was more about the hype of the city then any particular incident that happened in that city.
 
-In reality travelling anywhere on bicycle often feels safer then when you are insulated away from the world in a car. 
+In reality **travelling anywhere on bicycle often feels safer** then when you are insulated away from the world in a car. 
 You meet many more people and get a sense for the vibe of a place.
 
-**2) Distance from repair shops**  
+**2. Distance from repair shops**  
 Learning how to repair or jury-rig your bicycle is something that definately should be considered when planning your tours. 
 The repair section of this article will discuss this in more detail but I believe that there are four very common critical problems that tend 
 to occurr on a touring bicycle.
@@ -245,26 +257,28 @@ tie wraps, some patience and a few minutes of careful thought.
   <figcaption></figcaption>
 </figure> 
 
-Some people think of these problems as disasters. I prefer to think of these as "adventures" since I almost always come out of the incident 
+Some people think of these problems as disasters. I prefer to think of these as **"adventures"** since I almost always come out of the incident 
 knowing far more then before the problem occurred.
 Of course these problems can be prepared for in advance by reading a good repair book, 
 taking a bicycle repair course, performing routine maintenance on your bike or playing around with an old beater bike. 
-You don't have to wait for a problem to occurr you know!
+You don't have to wait for a problem to occur you know!
+<br><br>
 
-**3) Distance from medical aid**  
+**3. Distance from medical aid**  
 Let's pretend for a moment that you live by yourself. Suppose you got up early in the morning after a late night programming on your computer. 
 Just barely awake you slip while stepping into the shower. In the process of falling down you become severely injured. 
 How likely is it that someone will be able to help you in a very short period of time?
 
 Now contrast this with a touring bicycle. You are generally riding on roads that see at least some traffic on a regular basis.
 Of the two situations which one will allow people to at least notice you in difficulty first?
-For proactive reasons I always carry a first aid kit in an easily accessible outside pocket on my front right saddlebag. 
+
+For proactive reasons I always carry a first aid kit in an **easily accessible outside pocket on my front right saddlebag**. 
 I carry this kit in case I need it to help myself or to aid others.
 Just like with bike repair you can prepare to some extent by learning about first aid. 
 
 Personally I intend to take a Wilderness first aid course soon to continue to expand my knowledge.
 
-**4) Dangerous animals - Lions, tigers and bears**  
+**4. Dangerous animals - Lions, tigers and bears**  
 Beginning tourists often seem to worry about wild animals.
 
 For me personally my scariest encounter with wild life while on tour occured at around 2:00 AM in Geneva State Park in Ohio. 
@@ -274,13 +288,13 @@ I've seen bears on tour but so far they've run away from me faster then I've bee
 According to the statistics there have been around 36 humans killed by bears in the past fifty years.
 From reading touring journals I know that snakes etc are a concern when riding in Australia.
 
-**5) Adverse weather - Rain, snow, sleet, hail etc**  
+**5. Adverse weather - Rain, snow, sleet, hail etc**  
 Everyone seems to worry about the weather. I find that when I am on a long tour I don't concern myself too much with the weather forecast.
 Instead I carry the appropriate gear, whether it's rain gear or clothing for hot and cold conditions.
 Perhaps I've been lucky but so far I've found that on tour I typically experience very little rain during the day. 
 Most rain seems to arrive at night. As an example I experienced two half days of rain during my Round Lake Huron tour despite travelling for 21 days.
 
-There's a saying that goes something like, "If you don't like the weather ..... wait 15 minutes". 
+There's a saying that goes something like, **"If you don't like the weather ..... wait 15 minutes".** 
 I've found that this is often the case on a bicycle tour too. This isn't so much just because the weather does change 
 through the course of the day but also because on a bike you are travelling fast enough to be able to navigate around or beyond 
 most storms leaving them to finish off their nastiness at night.
@@ -288,6 +302,7 @@ most storms leaving them to finish off their nastiness at night.
 ## Visualizing a bicycle touring adventure
 Many web sites including this one try to explain bicycle touring. 
 In many ways it is a very diificult task because bicycle touring is so many different things to so many different people. 
+
 One common way to showcase bicycle touring is to scatter pictures from previous tours throughout the web pages. 
 In this way you convey useful information about bicycle touring while also allowing people to get a glimpse of some of the incredible 
 things you will see and experience during bicycle tours.
@@ -302,7 +317,7 @@ You will see many beautiful pictures of places all over the world.
 If you go one step further and release your imagination then it won't take much to actually see yourself riding the roads and 
 paths shown in the visual display.
 
-The web site I am referring to is called  [Impressions from bicycle travels](https://impressions.bicyclingaroundtheworld.nl/) 
+The web site I am referring to is called  [Impressions from bicycle travels](https://impressions.bicyclingaroundtheworld.nl/){:target="_blank" rel="nofollow"} 
 Go ahead and make a visit. You might just be surprised at how enjoyable the site is and how well it conveys some of what bicycle touring is all about!
 Once you've checked out the web site feel free to come back and obtain some more information from the Bike Touring World 
 website about how to [Get Started with your first bicycle touring adventure](https://biketouringworld.com/go-bike-touring.html)
@@ -339,8 +354,8 @@ Richard had done loaded touring on YHA trips in France and Switzerland. Great, w
 he can show us the ropes. So the three of us decided to go ahead with the trip.
 
 
-By this point I had already been doing research. I had picked up Rob van der Plas' Bicycle Touring Manual. 
-I had gotten the Adventure Cycling Maps. And I had gotten Kirkendall and Spring's Bicycling the Pacific Coast. 
+By this point I had already been doing research. I had picked up Rob van der Plas' **Bicycle Touring Manual**. 
+I had gotten the **Adventure Cycling Maps**. And I had gotten Kirkendall and Spring's **Bicycling the Pacific Coast**. 
 Mark had gotten the itinerary from YHA, and they pretty much followed K&S.
 
 A couple of days before my flight, I loaded up my bike for the first time, and rode it around the block. Then I packed it up.
@@ -349,7 +364,7 @@ I met up with Mark and Richard in the hostel in San Fransisco, and we headed dow
 The first day was a 25 mile ride to the Montara lighthouse, which had been turned in to a hostel. 
 Despite the unsual heat wave that had hit San Fracisco, and the big climb up to Devil's Slide 
 (which had just reopened a couple days before after being buried under a mudslide for five months), 
-I discovered that bicycle touring isn't difficult. If you can ride a bike you can do loaded touring.
+**I discovered that bicycle touring isn't difficult.** If you can ride a bike you can do loaded touring.
 
 We averaged about 45 miles a day, staying in hostels the first few nights, before hitting our first campground in Monterey. 
 I learned that you should learn how to use your stove at home before leaving on your tour, when I set the picnic table on fire.
@@ -365,14 +380,14 @@ The biggest lesson I learned was that, if you arrange to to a tour with someone 
 be aware that you might not be compatible with them, On the other hand, they could turn out to be a great guy. 
 But if you find them annoying, don't get upset; learn to laugh at their foibles.
 
-*Submitted by Paul Stockton*
+*&mdash; Submitted by Paul Stockton*
 
 ## Walt Ebbert's first bicycle touring adventure
 Back when I was a kid I can recall many times when I would expand my personal horizon by going just a bit further and checking that
 unknown street just beyond my current boundary. As time passed I gradually came to know all the streets within five miles of home.
 
 I met Walt Ebbert recently during a business trip to Florida. 
-We shared some riding time and over dinner one day Walt told me about his first bicycle touring adventure.
+We shared some riding time and over dinner one day Walt told me about his **first bicycle touring adventure**.
 
 
 Walt was also a kid who enjoyed seeing what waited for him just around the bend. 
@@ -438,7 +453,7 @@ Here are just a few of them. To see the entire list you'll just have to go and r
 
 ## Matthew Jarvis's first bicycle touring adventure
 
-Having trashed my legs in a climbing accident 5 years ago, cycling has been my salvation and long distance touring is where I want to be. 
+Having trashed my legs in a climbing accident 5 years ago, cycling has been my salvation and **long distance touring** is where I want to be. 
 A woman is doing a tour that is coming thru Eugene on her way south and I hope to ride a few days with her, so wanted to 
 get some practical experience before committing to the open road.
 
@@ -453,7 +468,7 @@ I would "need" to have if I were on my own, I just wanted to use his bigger stuf
 
 Originally planned as just a Saturday overnighter, I figured that leaving Friday would give us a good chance at a campsite, 
 and it was raining that day so I was hoping that people would be staying home. As I stood next to my bike, dressed for the ride, 
-bike fully loaded and prepped, I called my buddy and said we're going.
+*bike fully loaded and prepped*, I called my buddy and said we're going.
 
 When I left town around 2:45 Friday it was raining rather hard and some wind gusts. I tried to convince myself that it was a good omen, so off I went.
 
@@ -478,7 +493,7 @@ squiggly line or something and the software was just plain wrong.
 
 Mental note: trust the mapping software !!
 
-There is a hill there. Oh-my-god-there-is-a-hill-there!
+*There is a hill there.* **Oh-my-god-there-is-a-hill-there!**
 
 A mile or two out of Alpine the road starts to climb up into the coast range - according to the now-trusted software it's approx 1100' 
 in about 2.5 miles - or close to 10.5% grade. As I saw it coming I said to myself 'uh-oh - here we go' and managed a few hundred yards, 
@@ -532,16 +547,21 @@ seen me pushing my bike up the hill as they passed me on the way to the campgrou
 
 My buddy finally arrives, we set up a mini camp and enjoy some sandwiches as it got dark. 
 Then we joined our hosts at the campfire and listened to the two teenage boys be teenage 
-boys for the evening. were we all that obnoxious at that age?
+boys for the evening. Were we all that obnoxious at that age?
 
 The next morning it turned out that a site had opened up and we jumped on it. 
 We thanked our hosts for their generosity and moved our camp over to the new digs. 
 Saturday consisted of food, the campfire and beer - for about 14 hours..
 
 If I hadn't had such nasty blisters on my feet I would have bitten the bullet and walked back up and over the hill - after all, 
-it was only 600' this time instead of 1100'. But in addition to that issue I was nervous about returning along my original route and going back down that short portion of Hwy 99 - it really twigged me out so I really wanted to avoid it if possible. Luckily my buddy was kind enough to give me and my gear a ride back down to where Hulbert Lake Rd meets Hwy 99, and so I had a rather short (20 mile) but pleasant ride back to Eugene in about 90 degree temps. The entire trip was 59.5 miles..
+it was only 600' this time instead of 1100'. But in addition to that issue 
+I was nervous about returning along my original route and going back down that short portion of 
+Hwy 99 - it really twigged me out so I really wanted to avoid it if possible. 
+Luckily my buddy was kind enough to give me and my gear a ride back down to where 
+Hulbert Lake Rd meets Hwy 99, and so I had a rather short (20 mile) but pleasant 
+ride back to Eugene in about 90 degree temps. The entire trip was 59.5 miles..
 
-Lessons learned:
+**Lessons learned:**
 
 Re-think how I pack the Bob Dry Sack. Yes it's really huge, but the only way to seal it is fold the top two flaps 
 over and buckle them down. Turns out this eats up a lot of space you think you may have with that huge bag. 
@@ -558,7 +578,7 @@ Next time, just carry the thing lashed to the trailer or in the rack trunk - kee
 
 ## Steve Varley's first bicycle tour
 
-I had liked the idea of bicycle touring for a long time. I don't know why but the thought of self-supported adventure, 
+I had liked the idea of bicycle touring for a long time. I don't know why but the thought of **self-supported adventure**, 
 independence, on-your-own, really appealed to me. I have been on many tours over the years. I've crossed Utah and Wyoming many times on organized tours. 
 When I did that, I wondered how a person could carry everything they need on the bike. It was hard enough just getting through the 
 60 or 90 miles on a bike with just a tool kit and a wind breaker.
@@ -608,7 +628,7 @@ I want to ride it where I like
 
 &mdash; Queen, “Bicycle Race”
 
-Tour de Brad, my first solo, loaded bike expedition is less than one week away, and I am petrified. My fears, I tell myself, 
+Tour de Brad, my first solo, **loaded bike expedition** is less than one week away, and I am petrified. My fears, I tell myself, 
 are both natural and rational. After all, as I often explain to my naïve and sometimes-bigoted high-school English students, 
 xenophobia is fear of the strange or unknown. A blissful life without apprehension, I continue, can only be acquired through 
 the accumulation of knowledge, wisdom, and experience. And that, class, is why we need to learn how to teach ourselves and each other, 
@@ -627,29 +647,29 @@ I actually pedal out of town, my life distilled into a few water bottles, a rack
 
 
 Unfortunately, this kind of explanation does little to appease my friends and family, who don’t quite know what to think. 
-When I describe the trip to them, all that most can muster is a condescending “Well . . . that sounds . . . um . . . great.” I can tell the concept 
+When I describe the trip to them, all that most can muster is a condescending *“Well . . . that sounds . . . um . . . great.”* I can tell the concept 
 of a bike tour has never crossed their minds, and, though there are exceptions, they, too, fear the unknown. Some of them also fear for me.
 
 My mother, no surprise, and my landlord, who would really like me to survive the trip and continue my tenancy, are among the most vocal 
 of my pessimistic supporters:
 
-“Braddy,” Mom says. “You’re going to sleep in hotels along the way, right?”
+&mdash; “Braddy,” Mom says. “You’re going to sleep in hotels along the way, right?”
 
-“No, Mom. Not if I can help it.”
+&mdash; “No, Mom. Not if I can help it.”
 
-“What about formal campsites?”
+&mdash; “What about formal campsites?”
 
-“Nope. That’ll blow my budget if I do it too often.”
+&mdash; “Nope. That’ll blow my budget if I do it too often.”
 
-“Oh, great! So you’re just going to pitch a tent on the side of the road where anyone can see you, stop and kill you, and take all your stuff!”
+&mdash; “Oh, great! So you’re just going to pitch a tent on the side of the road where anyone can see you, stop and kill you, and take all your stuff!”
 
-“Yes, Mother, that’s the plan. Actually, I was thinking the median would be better than the side of the road. That way, psychos and kidney thieves going in either direction can take their shot. Ah, that reminds me: Do you know my blood type?”
+&mdash; “Yes, Mother, that’s the plan. Actually, I was thinking the median would be better than the side of the road. That way, psychos and kidney thieves going in either direction can take their shot. Ah, that reminds me: Do you know my blood type?”
 
-“Very funny—“
+&mdash; “Very funny—“
 
-“No, I’m serious—“
+&mdash; “No, I’m serious—“
 
-“Right. What about food?”
+&mdash; “Right. What about food?”
 
 I go on to explain that I’ll carry dehydrated backpacking rations, buy groceries and staples along the way, and gorge myself at every 
 all-you-can-eat dive I find. I also explain that, if I do camp near the road, I’ll head far off the beaten path to a 
@@ -737,6 +757,6 @@ So what, exactly, is the point of my impending journey? The definitive answer, i
 in the desert, through the woods, over the mountains. It may come as early as next week, maybe next year, and perhaps not 
 for another lifetime. Until that answer arrives, however, I look forward to pedaling, smiling, into the unknown.
 
-Submitted by Brad Kamradt
+&mdash; Submitted by Brad Kamradt
 
 

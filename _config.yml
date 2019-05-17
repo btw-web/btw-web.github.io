@@ -11,4 +11,4 @@ plugins:
   - jekyll-feed
   
 excerpt_separator: "<!-- more -->"
-exclude: [jekyll-serve.bat]
+exclude: [wSERVEJEKYLL.bat, .gitignore, DRAFTS]

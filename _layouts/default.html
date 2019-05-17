@@ -43,5 +43,17 @@
         }, false);
       })(document);
     </script>
+    
+    <script>
+  const area = document.getElementById('content');
+  const callback = counter => asdsa(counter);
+
+  Countable.on(area, callback);
+  
+  function asdsa(veri){
+  const veria = document.getElementById('veri');
+    if(location.hostname == "localhost"){veria.innerHTML = "sentences: "+veri.sentences+", words: "+veri.words+"";}
+  }
+</script>
   </body>
 </html>
