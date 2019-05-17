@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Links
-permalink: about.html
+permalink: links.html
 ---
 
 
