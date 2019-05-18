@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+desc: About BikeTouringWorld.com
 permalink: about.html
 ---
 

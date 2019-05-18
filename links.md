@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Links
+desc: Useful links about bicycle touring
 permalink: links.html
 ---
 
