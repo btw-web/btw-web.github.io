@@ -84,13 +84,15 @@ figcaption,p {
 .fig_leftimg {
     width: 35%;
     float: left;
-    margin-right: 20px
+    margin-right: 20px;
+    margin-left: 20px;
 }
 
 .fig_rightimg {
     width: 35%;
     float: right;
-    margin-left: 20px
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 .clearfix:after,.clearfix:before {
@@ -128,6 +130,45 @@ figure {margin-left:5px}
   }
 }
 
+h1,h2,h3,h4,h5 {
+     font-weight: 600;
+   // margin-top: 10px;
+  //  margin-bottom: 0;
+  //  letter-spacing:0;
+}
+
+h1 {
+    font-size: 42px;
+    line-height: 2.5rem;
+    color: #585858;
+    text-size-adjust: 100%;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 2rem;
+    color: #1a92c2;
+    text-align:center;
+}
+
+
+h3 {
+    font-size: 28px;
+    line-height: 1.8rem;
+    color: #ff9308;
+}
+
+h4 {
+    font-size: 26px;
+    line-height: 1.5rem;
+    color: #222;
+}
+
+h5 {
+    font-size: 20px;
+    line-height: 1.5rem;
+}
+
 
 /*
  * Masthead
@@ -146,6 +187,8 @@ figure {margin-left:5px}
   margin-top: 0;
   margin-bottom: 0;
   color: #fff;
+  font-size:26px;
+  font-weight:bold;
 }
 .masthead-title a {
   color: #fff;
