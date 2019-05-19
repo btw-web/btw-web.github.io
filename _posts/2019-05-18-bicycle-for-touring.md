@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What Kind of Bicycle to Use for Touring"
+title: "What Kind of Bicycle is Best for Touring"
 desc: Everything you need to know about touring bicycles, or bicycles to tour with.
 image: 3
 ---
