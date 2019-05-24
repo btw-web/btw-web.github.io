@@ -19,7 +19,6 @@ permalink: links.html
 | [Tour Tales](http://www.tour-tales.com/){:target="_blank" rel="nofollow"}      | Includes some basic How-to information as well as a number of journals        |
 | [Touring what little I know](http://www.mountainbikingx.com/Ride/Touring/touring.htm){:target="_blank" rel="nofollow"}      | Lewis and Clark trail tour from Jordan MT to Bismark ND        |
 | [Travel to the Horizon](http://www.raph.nl/cgi-bin/dbman/db.pl){:target="_blank" rel="nofollow"}      | Contains numerous links to touring resources including journals and how-to information        |
-| [test](link)      | desc        |
 
 
 
