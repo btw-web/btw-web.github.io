@@ -3,7 +3,6 @@ layout: post
 title: Choosing a Bicycle Touring Companion
 desc: If you decide to tour with someone else then there are very few more important decisions that you can make then determining who that someone else should be. Choose wisely and your tour could be smooth sailing. Choose poorly and it could be a trip over the falls.
 image: 21
-published: false
 ---
 
 
