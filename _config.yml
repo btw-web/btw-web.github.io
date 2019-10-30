@@ -4,7 +4,7 @@ tagline:             'The Ultimate Resource for Bicycle Touring'
 description:         'Bike Touring World - The Ultimate Resource for Bicycle Touring'
 url:                 https://biketouringworld.com
 baseurl:             ''
-permalink: '/:title.html'
+permalink: ':categories/:title.html'
 
 plugins:
   - jekyll-sitemap

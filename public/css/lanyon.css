@@ -657,3 +657,168 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+
+
+
+
+
+
+
+
+
+.no-bullets {
+  list-style-type: none;
+}
+
+
+
+
+.checkbox_container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.checkbox_container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer
+}
+
+.checkmark {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee
+}
+
+.checkbox_container:hover input~.checkmark {
+    background-color: #ccc
+}
+
+.checkbox_container input:checked~.checkmark {
+    background-color: #2196f3;
+}
+
+.checkmark:after,.checkmark_radio:after {
+    content: "";
+    position: absolute;
+    display: none
+}
+
+.checkbox_container input:checked~.checkmark:after,.checkbox_container input:checked~.checkmark_radio:after {
+    display: block;
+}
+
+
+.checkbox_container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid #fff;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg)
+}
+
+.checkmark_radio {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+    border-radius: 50%
+}
+
+.checkbox_container:hover input~.checkmark_radio {
+    background-color: #ccc
+}
+
+.checkbox_container input:checked~.checkmark_radio {
+    background-color: #2196f3
+}
+
+.checkbox_container .checkmark_radio:after {
+    top: 9px;
+    left: 9px;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #fff
+}
+
+
+
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+#markdown-toc {
+    padding: 25px 5px 30px 30px;
+    background: #f8fff6;
+    box-shadow: 0px 0px 4px 1px #eee;
+}
+
+
+
+
+@media all {
+	.page-break	{ display: none; }
+  .show-on-print {display:none; }
+}
+
+@media print {
+  .hide-on-print, .post-share-buttons, .post-comments, .breadcrumb, .topnav, .footer-container, .contact_button, .share-and-download, .share-for-pdf, .post-box, #veri {
+    display:none
+  }
+  
+  .show-on-print {
+    display:block;
+    font-size:32px;
+    page-break-after: always;
+    page-break-before: always; 
+    background-color: white;
+    text-align: center;
+    margin-top: 30%;
+  }
+  
+  .article-container{
+    margin-bottom:0
+  }
+  
+  @page title {
+      @top-left {
+          content: " ";
+      }
+      @top-right {
+          content: " "
+      }
+      @bottom-right {
+          content: "https://biketouringworld.com";
+      }
+      @bottom-left {
+          content: "Bike Touring World";
+      }
+  }
+  
+	.page-break	{ display: block; page-break-before: always; }
+  
+  pre, blockquote {page-break-inside: avoid;}
+  
+}
+
+
