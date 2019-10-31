@@ -37,6 +37,7 @@ There are different types of shelters, it's up to you to choose one.
 
 ### Tent
 Tents are the most widely used type of shelter because of their simplicity, reliability, and comfort.
+{% include lazy-image.html file="tent-bike-touring" side="" alt="Tent for bicycle touring" caption="" %}
 
 #### Single Layer Tents
 Single layer tents don't have a bug net, and ventilation is low compared to double layer tents. Although they are light, their disadvantages
@@ -70,21 +71,6 @@ Most bike travelers use double layer tents because of their features, and since 
 **Cons of Double Layer Tents:** 
 - Heavy
 - Takes time to set up
-
-
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="tent-bike-touring" side="left" alt="Tent for bicycle touring" caption="" %}
-**ALPS Mountaineering Lynx 1-Person Tent**
-
-Lynx tent is free-standing with two aluminum poles.
-Polyester tent fly resists water and UV damage.
-Equipped with storage pockets, gear loft, stakes, guy ropes and one doorway
-
-Base Size: 2'8 x 7'6, Center Height: 36", Total Weight: 4 lbs. 4 oz., Minimum Weight: 3 lbs. 8 oz.
-
-[<button class = 'button-success button-block'>ALPS Mountaineering Lynx 1-Person Tent on Amazon</button>](https://www.amazon.com/ALPS-Mountaineering-Lynx-1-Person-Tent/dp/B00BMKD1DU/){:target="_blank" rel="nofollow"}
-
-</div>
 
 
 
@@ -123,32 +109,8 @@ or as a veil while you shower, or as a tent extension to cover your gear from ra
 - Hard to set up
 - No bug protection
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="tarp-on-bike-tour" side="left" alt="Tarp for bicycle touring" caption="" %}
-**Unigear Waterproof Tent Tarp**
-
-Unigear tent tarp is made of strong 210D rip-stop Oxford fabric, PU 3000mm waterproof. 
-It offers an excellent protection against rain, sudden downpours, snow and high winds.
-
-The rain fly can be widely used as survival tarp, hammock shelter, outdoor kitchen cover, 
-simple tent, tent footprint, ground sheet and instant shade. 
-Come with 6 stakes and 6 ropes, you can set up different shapes easily.
-
-- Water Resistant to Keep You Dry
-- UV Protection to Keep Away Sunburn
-- Anti-Tearing for Long Lasting
-- Space Saving for Your Bag
-- Easy to Set UP
-- Large Coverage for Your Hammock and Tent
-- Come with 6 ropes and 6 stakes
-- Multiples Use for your Outdoor Adventure
-
-
-[<button class = 'button-success button-block'>Unigear Waterproof Tent Tarp on Amazon</button>](https://www.amazon.com/Unigear-Waterproof-Backpacking-Lightweight-157x120inch/dp/B07FPFZNGN/){:target="_blank" rel="nofollow"}
-
-</div>
-
 ### Bivvy Bag
+{% include lazy-image.html file="bivy-bag-bike-tour" side="right" alt="Bivvy bag for bicycle touring" caption="" %}
 Bivvy bags look like body bags. A bivvy bag is the most basic type of shelter and it's very light. It is mainly used by mountain climbers and the military, but 
 ultralight travelers started to use them a long time ago. Bivvy bags are waterproof and breathable, so they are a great substitute for tents.
 
@@ -168,26 +130,10 @@ ultralight travelers started to use them a long time ago. Bivvy bags are waterpr
 - Vulnerable to wild animal attacks
 
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="bivy-bag-bike-tour" side="left" alt="Bivvy bag for bicycle touring" caption="" %}
-**Outdoor Research Helium Bivy**
-
-- Waterproof
-- Breathable
-- Ultra Lightweight
-- Fully Seam-Taped
-- Durable
-- No-See-Um Mesh
-- Hydroseal Floor
-
-Sleeping Pad Straps; Five Stake Loops; One Guy Line Loop; Internal Mesh Pocket; Delrin Single-Pole System
-
-[<button class = 'button-success button-block'>Outdoor Research Helium Bivy on Amazon</button>](https://www.amazon.com/Outdoor-Research-Helium-Pewter-1Size/dp/B00DT01AUW/){:target="_blank" rel="nofollow"}
-
-</div>
 
 
 ### Hammock
+{% include lazy-image.html file="hammock-bicycle-tour" side="right" alt="hammock on bicycle tour" caption="" %}
 Hammocks are becoming a common option among cyclists. Nowadays, hammocks can be set up both on trees and on the ground like a tent or tarp.
 This feature allows comfortable sleep when there are suitable trees or a ground shelter when there is nothing to attach the hammock to.
 
@@ -204,20 +150,6 @@ Older models don't have this feature, but can be easily converted to a ground sh
 - Not comfortable for everyone
 - Hard to set up
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="hammock-bicycle-tour" side="left" alt="hammock on bicycle tour" caption="" %}
-**Legit Camping - Double Hammock**
-
-- Lightweight, spacious design
-- 400-pound capacity
-- Room for two
-- Military-grade 210T nylon fabric
-- Lifetime warranty
-- Included steel carabiners, rope and tree friendly straps
-
-[<button class = 'button-success button-block'>Legit Camping - Double Hammock on Amazon</button>](https://www.amazon.com/Legit-Camping-Double-Hammock-Lightweight/dp/B07B3BZFSP/){:target="_blank" rel="nofollow"}
-
-</div>
 
 ### Shelter Accessories
 You may want to upgrade your tent accessories to improve the durability of the sleep system or just for shaving off some weight.
@@ -240,6 +172,7 @@ make your own replacement poles by cutting them in correct lengths, making joint
 It's easier to replace the pole of a pyramid tent, and if it breaks on the field; you can use a wood stick as a temporary replacement.
 
 #### Stakes
+{% include lazy-image.html file="tent-stakes" side="right" alt="tent stakes" caption="" %}
 Tent stakes are also an important part of the tent. They must be long enough to hold the ground, but shouldn't bend or break.
 Cheap tents usually come with stainless steel stakes. 
 
@@ -254,27 +187,8 @@ Some people use carbon-fiber tent stakes because they want to carry the absolute
 Carbon-fiber stakes are not that strong, so you can't hit them with a rock. You have to push them to the ground with your hands, gently.
 
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="tent-stakes" side="left" alt="tent stakes" caption="" %}
-**7075 Aluminum Outdoors Tent Stakes Pegs**
-
-An ultra-light, three-sided, High-strength 7075 aluminum stake that securely anchors your tent without adding unnecessary weight to your pack, 
-you won't even feel them in your pack  
-7 inches long - Enough to make your tent firmly grasp the length of the ground  
-Our "Y" design aluminum tent pegs penetrate and hold firmly in a wide range of soil conditions  
-
-Feature: Ultra-light and three-sided  
-Material: Aluminum  
-Length: Approx 7 inches
-
-Our "Y" design aluminum tent pegs penetrate and hold firmly in a wide range of soil conditions
-
-[<button class = 'button-success button-block'>7075 Aluminum Outdoors Tent Stakes Pegs on Amazon</button>](https://www.amazon.com/All-one-tech-Aluminum-Outdoors/dp/B01I0X9UQ8/){:target="_blank" rel="nofollow"}
-
-</div>
-
-
 #### Guylines and Tensioners
+{% include lazy-image.html file="line-tensioner" side="left" alt="guyline tensioner adjuster" caption="" %}
 Most people are happy with their stock tent cords; why wouldn't they be?
 On the other hand, ultralight travelers use fishing lines as tent cords. Fishing lines are lighter, stronger, and don't tangle as much as regular cords.
 Some lines are coated with glow-in-the-dark dyes and can be seen at night while camping. This is a useful feature if you don't want to trip over the line
@@ -282,40 +196,14 @@ when you get up to pee at night.
 
 Guyline tensioners are very useful when setting up the tent. You don't have to tie anything and you can adjust the lines as needed without trouble.
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="line-tensioner" side="left" alt="guyline tensioner adjuster" caption="" %}
-**DDY Ultralight Aluminum Guyline Cord Adjuster**
 
-Size: 2.16 x 0.79 x 0.08inches  
-Weight: 0.1 ounces  
-Diameter of the Hole: 0.31inch
-
-Material: Aluminum  
-Package includes 10 pcs adjuster
-
-
-[<button class = 'button-success button-block'>DDY Ultralight Aluminum Guyline Cord Adjuster on Amazon</button>](https://www.amazon.com/DDY-Ultralight-Aluminum-Adjuster-Backpacking/dp/B013FOVIGC/){:target="_blank" rel="nofollow"}
-
-</div>
 
 #### Groundsheets
 Groundsheets are used to protect the bottom of the tent from punctures and water. 
 They improve the life of the tent, and they can also be used for picnics, as a curtain while bathing, or as a tarp when it's raining.
 Most tents don't include a groundsheet, so you may have to buy one separately. If your tent didn't come with a groundsheet, you can buy this one:
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="groundsheet" side="left" alt="Groundsheets" caption="" %}
-**REDCAMP Waterproof Tent Footprint**
 
-REDCAMP waterproof tarp is made from 210D oxford ripstop polyester fabric that is waterproof (PU1000mm).  
-210x210cm/83x83 inches, perfect for 2-3 person. You can place the camp ground cloth under your tent to provide an extra moisture layer.  
-It can also be tied to provide a sun or rain canopy. 
-This tent tarp can be packed into a compact size ( 15x10x2cm / 6"x4"x0.5"). 
-It comes with a drawstring pouch providing added convenience for carrying. Weighs only 0.8LB/370g.
-
-[<button class = 'button-success button-block'>REDCAMP Waterproof Tent Footprint on Amazon</button>](https://www.amazon.com/REDCAMP-Waterproof-Camping-Tent-Tarp/dp/B07FTH91JG/){:target="_blank" rel="nofollow"}
-
-</div>
 
 
 ### Other Options
@@ -343,6 +231,7 @@ Choosing a warm and light sleeping bag is important while traveling by bicycle.
 There are two types of sleeping bags; synthetic sleeping bags and down sleeping bags.
 
 ### Synthetic Sleeping Bags and Quilts
+{% include lazy-image.html file="sleeping-bag-touring" side="left" alt="" caption="" %}
 Most people opt for synthetic sleeping bags because of their cheap price and ability to retain warmth even when moist. They do not require much maintenance.
 The insulating material is usually one piece, so it doesn't need protection from punctures as with down sleeping bags. They can easily be stitched at the field.
 
@@ -354,19 +243,6 @@ almost as light as down and don't have the disadvantages of down sleeping bags.
 
 In my opinion, a synthetic sleeping bag with Apex insulation is the way to go.
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="sleeping-bag-touring" side="left" alt="" caption="" %}
-**Coleman 0°F Mummy Sleeping Bag**
-
-Mummy-style adult sleeping bag for camping in temperatures as low as 0 degrees Fahrenheit  
-Can accommodate most people up to 6 feet 2 inches in height  
-Semi-sculpted hood tightens with a drawstring to seal in heat  
-Quilting construction, insulated footbox, and Thermolock draft tube for warmth and heat retention  
-ZipPlow system plows away fabric to prevent snagging during zipping  
-
-[<button class = 'button-success button-block'>Coleman 0°F Mummy Sleeping Bag on Amazon</button>](https://www.amazon.com/Coleman-North-Adult-Mummy-Sleeping/dp/B0009PUSO4/){:target="_blank" rel="nofollow"}
-
-</div>
 
 ### Down Sleeping Bags and Quilts
 Down sleeping bags are lighter than synthetic ones, and they occupy less volume because of their high compressibility.
@@ -381,37 +257,7 @@ Down-proof ripstop liners are used to protect the down from spilling all over th
 Of course, these products are more expensive than already expensive down sleeping bags, but if you are going with down, you should go with water-resistant
 down.
  
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="down-sleeping-bag-bike-touring" side="left" alt="Down sleeping bag for bike touring" caption="" %}
-**Hyke & Byke Eolus Down Sleeping Bag**
-Hyke & Byke Eolus 15 & 30 Degree F 800 Fill Power Hydrophobic Goose Down Sleeping Bag with LofTech Base - 
-Ultra Lightweight 3 Season Men’s and Women’s Mummy Bag
-
-Hydrophobic Goose Down insulation capabilities and water-resistant DWR fabrics.  
-Weighs ONLY: Short: 1.92 / 2.31 lbs; Regular: 2.04 / 2.49 lbs; Long: 2.16 / 2.66 lbs for the 30 / 15 °F bags, respectively. 
-
-LONG LASTING DURABILITY from ultralight water repellent DWR coated 400T 20 D ripstop nylon fabric liner with double large YKK zippers and anti-snag slider, 
-wide shoulders and large footbox, snag-free velcro, drawstring, vertical baffles, and compression stuff sack for storage included. 
-
-[<button class = 'button-success button-block'>Hyke & Byke Eolus Down Sleeping Bag on Amazon</button>](https://www.amazon.com/Hyke-Byke-Power-Sleeping-Backpacking/dp/B06VYJ7DFN/){:target="_blank" rel="nofollow"}
-
-</div>
-
-
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="down-quilt" side="left" alt="Down quilt on a bicycle tour" caption="" %}
-**Paria Thermodown 15F Down Sleeping Quilt**
-
-►WARM - Baffled construction and 22 oz. of high loft 700-fill power down which provides a temperature rating down to 15F (-10C).  
-►LIGHTWEIGHT - The quilt comes in at only 2 lb. 3 oz. and the included compression sack cinches down to just 10 x 7 inches.  
-►DURABLE - The light, but durable, 20D ripstop nylon fabrics will ensure that the quilt performs for countless adventures.  
-►VERSATILE - Open up the quilt for warm weather or close it up completely on those chilly nights. 
-Since they're so easy to adjust, they're also perfect for hammocks.  
-
-[<button class = 'button-success button-block'>Paria Thermodown 15F Down Sleeping Quilt on Amazon</button>](https://www.amazon.com/Paria-Outdoor-Products-Thermodown-Sleeping/dp/B01GP15KQQ/){:target="_blank" rel="nofollow"}
-
-</div>
-
+ 
 
 ### Sleeping Bags vs Quilts
 The sleeping bag versus quilt debate is a long-standing one. Both have their advantages and disadvantages.
@@ -435,6 +281,7 @@ Your sleeping pad choice is really important because when you ride all day, you 
 if you are traveling in colder seasons.
 
 ### Air Mattresses
+{% include lazy-image.html file="air-pad-bike-tour" side="right" alt="Inflatable pad on a bike tour" caption="" %}
 Inflatable sleeping pads are very comfortable, but they have a few disadvantages. 
 
 They are easily punctured by pointy rocks and pine needles if the campsite is not cleaned well. 
@@ -442,39 +289,13 @@ It takes time to inflate them and this is frustrating if you are tired and just 
 it is hard to deflate and pack again, and they are heavier than foam pads. 
 But they are less bulky while packed and more comfortable than other options.
 
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="air-pad-bike-tour" side="left" alt="Inflatable pad on a bike tour" caption="" %}
-
-**WELLAX Ultralight Air Sleeping Pad**
-The ultralight WellaX Sleeping Mat has a single layer of Air Cells to give you the lightest (ONLY 14.5 Oz) and smallest 
-packed-volume mat (10”x3.5”) without compromising comfort. 
-Inflated size is 78” x24” x2.5”.  
-Laminated 20D Rip-stop Nylon and the TPU Layer provides a good balance between low weight and durability. 
-It is virtually silent, waterproof, abrasion / tear resistant and reflects back radiant heat to the sleeper.  
-Advanced inflation technology features 2 flat valves: 1 for inflation and 1 for deflation, 
-making it quicker to inflate (only 4-6 breaths) or deflate.  
-WellaX Sleeping Pad has a R-value of 2.1, making it the perfect 3 season mat
-
-[<button class = 'button-success button-block'>WELLAX Ultralight Air Sleeping Pad on Amazon</button>](https://www.amazon.com/WellaX-Ultralight-Air-Sleeping-Pad/dp/B076Q6XSTH/){:target="_blank" rel="nofollow"}
-
-</div>
 
 ### Foam Mattresses
+{% include lazy-image.html file="foam-pad" side="right" alt="Foam pad for bicycle touring" caption="" %}
 Foam sleeping pads are bulky in nature, but they are lighter than air sleeping pads. They are sold in different sizes and thicknesses.
 The thickness and material used affect the insulating properties of the foam sleeping pad.
-  
-<div class = "product" markdown = "1">
-{% include lazy-image.html file="foam-pad" side="left" alt="Foam pad for bicycle touring" caption="" %}
-**REDCAMP Closed Cell Foam Camping Sleeping Pad**
 
-Virtually indestructible closed cell foam provides soft and comfortable sleeping experience.
-Thermal capture surface on foam camping mat reflects radiant heat back to your body, amplifying the warmth of the heat-trapping nest by 20%. 
-Peaks and valleys work together to reinforce support capacity and trap nest one to another inside to save space when packed. 
-Folding size: 22"*5"*5.5"; open size: 72"*22"*0.75"  
 
-[<button class = 'button-success button-block'>REDCAMP Closed Cell Foam Camping Sleeping Pad on Amazon</button>](https://www.amazon.com/REDCAMP-Camping-Sleeping-Lightweight-Backpacking/dp/B07MKJ3L6N/){:target="_blank" rel="nofollow"}
-
-</div>
 
 
 ### Other Options
@@ -488,6 +309,3 @@ The insulation rating of the bubble wrap depends on the number of layers used.
 
 
 
-
-{% assign list = "interactive-list-of-bike-touring-gear" | split: ", " %}
-{% include post-list.html posts = list %}
