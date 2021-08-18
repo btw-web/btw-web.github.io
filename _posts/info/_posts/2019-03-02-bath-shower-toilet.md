@@ -14,7 +14,7 @@ published: true
 category: info
 has_pdf: false
 ---
-<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bath-shower-toilet.html" />
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/info/bath-shower-toilet.html" />
 
 1. TOC
 {:toc}
