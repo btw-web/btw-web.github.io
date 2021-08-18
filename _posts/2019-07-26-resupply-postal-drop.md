@@ -4,6 +4,7 @@ title: Getting re-supplied via Postal drop while bicycle touring
 desc: While picking up a package delivered to a post office can really save time and energy try to avoid sending too much stuff at once otherwise stowing it away in your saddlebags or trailer might be a bit challenging!
 image: 24
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/resupply-postal-drop.html" />
 
 
 During my last few longer tours I've been thinking about the whole issue of **re-supply while on a bicycle tour**. 
