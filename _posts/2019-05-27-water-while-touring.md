@@ -7,6 +7,7 @@ desc: "Everyone knows the necessity of drinking plenty of water before, during a
   and intellectual capacities such as your level of alertness and ability to make quick decisions."
 image: 12
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/water-while-touring.html" />
 
 
 ## Hydration
