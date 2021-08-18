@@ -4,6 +4,7 @@ title: Dealing with Adverse Weather while Bicycle Touring
 desc: With the right rain gear, some fenders and a positive attitude aimed towards enjoying yourself no matter what happens it is indeed very possible to enjoy a ride in the rain.
 image: 18
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/adverse-weather.html" />
 
 
 ## Riding in the rain!
