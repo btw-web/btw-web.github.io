@@ -4,6 +4,7 @@ title: Stoves for Bicycle Touring
 desc: This stove burns at least six different kinds of fuels so the possibility of actually running out of fuel while touring is greatly reduced. In actual practice in order to switch fuels you also have to switch fuel needles. 
 image: 15
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/cooking-gear.html" />
 
 
 ## Touring with a MSR Dragonfly stove
