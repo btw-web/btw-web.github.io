@@ -14,7 +14,7 @@ has_pdf: true
 published: true
 category: info
 ---
-<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bike-touring-costs-budget-management.html" />
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/info/bike-touring-costs-budget-management.html" />
 
 <div class="page-break"></div>
 
