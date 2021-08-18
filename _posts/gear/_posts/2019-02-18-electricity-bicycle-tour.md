@@ -14,6 +14,7 @@ published: true
 category: gear
 has_pdf: false
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/electricity-bicycle-tour.html" />
 
 1. TOC
 {:toc}
