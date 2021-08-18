@@ -4,6 +4,7 @@ title: Carrying the Load on the Bike
 desc: Next step is figuring out how to carry everything you need with you while touring by bicycle. There are two main ways of doing this on a self-contained and fully loaded tour.
 image: 4
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/carry-load.html" />
 
 Now that you've picked out the bike and sorted out your mental and physical training issues the next step is figuring out 
 **how to carry everything you need with you while touring by bicycle**. There are two main ways of doing this on a *self-contained and fully loaded tour*.
