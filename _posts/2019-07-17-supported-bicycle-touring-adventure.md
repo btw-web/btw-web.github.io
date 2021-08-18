@@ -4,6 +4,7 @@ title: What's a supported bicycle touring adventure like?
 desc: I have never been on a fully supported bicycle touring adventure so I started looking for opinions from people who have. Not only has Nancy Bradbury experienced several fully supported tours but she's willing to discuss her experiences with us.
 image: 23
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/supported-bicycle-touring-adventure.html" />
 
 
 I have never been on a fully supported bicycle touring adventure so I started looking for opinions from people who have. 
