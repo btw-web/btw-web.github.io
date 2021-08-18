@@ -4,6 +4,7 @@ title: Photography while Bicycle Touring
 desc: I will discuss about bicycle touring photography in this article. I will mention about which camera to buy, how to shoot nice photos, how to edit photos, and storing photos safely.
 image: bike-touring-budget
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/photography-bicycle-tour.html" />
 
 
 ## Selecting a camera for a bicycle touring adventure
