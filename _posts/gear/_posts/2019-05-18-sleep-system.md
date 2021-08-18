@@ -14,7 +14,7 @@ published: true
 category: gear
 has_pdf: false
 ---
-<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/sleep-system.html" />
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/gear/sleep-system.html" />
 
 1. TOC
 {:toc}
