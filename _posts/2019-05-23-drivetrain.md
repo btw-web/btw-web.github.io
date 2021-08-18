@@ -4,6 +4,7 @@ title: Choosing a Drivetrain for Touring Bicycle
 desc: A very common question on most bicycle touring related forums concerns selecting the proper gearing for a bicycle touring bike. There are really two answers that are almost instantly heard when the question is asked.
 image: 8
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/drivetrain.html" />
 
 
 ## Selecting the best gearing for your touring bicycle
