@@ -6,6 +6,7 @@ desc: The combination chain locks are a very minor nuisance to a bike thief. Cha
       combination when I was a kid and being able to quickly figure it out by listening to the clicks.
 image: 5
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bike-locks.html" />
 
 
 ## Keeping your bike secured during your bicycle touring adventure
