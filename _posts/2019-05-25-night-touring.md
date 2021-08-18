@@ -4,6 +4,7 @@ title: Preparing for Touring at Night
 desc: Ask people who tour and you will rapidly discover that most of them never tour at night. In a lot of ways this is a smart choice because riding a bicycle at night is considered to be more dangerous then riding one in the daytime. We'll see what we need for night touring. 
 image: 10
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/night-touring.html" />
 
 ## Reflecting the light
 Ask people who tour and you will rapidly discover that most of them never tour at night. 
