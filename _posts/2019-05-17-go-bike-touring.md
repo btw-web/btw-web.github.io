@@ -5,6 +5,7 @@ desc: This post discusses how to go about getting started.
       It focuses on the things that you should consider about yourself like physical training and mental strength.
 image: 2
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/go-bike-touring.html" />
 Now that you've read a bit about touring it's only natural to want to know about how you can get started.
 
 This post discusses how to go about getting started. 
