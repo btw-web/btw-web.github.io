@@ -4,6 +4,7 @@ title: Getting Physically Prepared for Your Next Major Tour
 desc: Most people worry and frit about how to prepare before they tour for the first time and then rapidly discover that bicycle touring is most of the time only as physically challenging as you want to make it.
 image: 20
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/getting-physically-ready.html" />
 
 One of the more common questions that comes in relates to preparing yourself for the incredible hardships of your next major tour. 
 Of course most people worry and frit about how to prepare before they tour for the first time and then rapidly discover 
