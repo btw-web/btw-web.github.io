@@ -4,6 +4,7 @@ title: Credit Card or Self-Supported Touring?
 desc: My tours have so far always been fully loaded, self supported tours. Unfortunately that means that I don't have a personal viewpoint on this topic yet. Luckily Jim Oliver has stepped forward to offer his thoughts on the topic.
 image: 22
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/credit-card-or-self-supported-touring.html" />
 
 
 When I first allowed myself to actually think about going on a tour, **credit card touring** seemed the only rational option. 
