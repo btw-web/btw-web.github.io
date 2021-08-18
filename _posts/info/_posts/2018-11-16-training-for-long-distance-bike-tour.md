@@ -13,7 +13,7 @@ has_pdf: false
 published: true
 category: info
 ---
-<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/training-for-long-distance-bike-tour.html" />
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/info/training-for-long-distance-bike-tour.html" />
 Unless you train first.
 
 ## Planning the training
