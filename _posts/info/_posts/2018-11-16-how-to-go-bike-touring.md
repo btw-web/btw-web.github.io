@@ -13,6 +13,7 @@ has_pdf: true # bunda sayfa icinde de inline pdf var.
 published: true
 category: info
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/how-to-go-bike-touring.html" />
 
 _It may not be that easy to leave your family and friends behind, but after the 10-day milestone, you'll be free from whatever has kept you for so long.
 You may have a corporate job that you are sick of, and you want to travel the world like most of us. 
