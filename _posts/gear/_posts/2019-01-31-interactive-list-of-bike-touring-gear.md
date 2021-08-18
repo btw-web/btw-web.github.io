@@ -14,7 +14,7 @@ published: true
 category: gear
 has_pdf: false
 --- 
-<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/interactive-list-of-bike-touring-gear.html" />
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/gear/interactive-list-of-bike-touring-gear.html" />
 
 <div class="page-break"></div>
 
