@@ -4,6 +4,7 @@ title: "What Kind of Bicycle is Best for Touring"
 desc: Everything you need to know about touring bicycles, or bicycles to tour with.
 image: 3
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bicycle-for-touring.html" />
 
 ## A proper bicycle for touring
 When I consider a bike I think of the three most important criteria that surround a successful touring bike.
