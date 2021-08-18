@@ -4,6 +4,7 @@ title: Bike Computers for Touring
 desc: Over the years I have used a good selection of different bicycle computers from devices that simply showed speed and distance onward. Back when I first started touring I used to use an Astral bike computer. Today I currently use a Cyclosport HAC 4+.
 image: 11
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bike-computers.html" />
 
 ## Dreaming of the perfect touring bike computer
 Over the years I have used a good selection of different bicycle computers from devices 
