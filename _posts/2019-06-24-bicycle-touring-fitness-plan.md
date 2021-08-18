@@ -4,6 +4,7 @@ title: A Bicycle Touring Fitness Plan
 desc: Many people think of equipment and the bike when discussing preparation. Another key area is your level of physical fitness. I came up with the following five things that a bicycle traveler needs to do for training for a bike tour.
 image: 19
 ---
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bicycle-touring-fitness-plan.html" />
 
 ## How to Train for a Long-Distance Bicycle Tour
 Back in May I returned from a heavy duty work assignment in a city away from home. 
