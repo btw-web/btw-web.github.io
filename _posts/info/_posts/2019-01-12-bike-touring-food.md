@@ -14,7 +14,7 @@ published: true
 category: info
 has_pdf: true
 ---
-<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/bike-touring-food.html" />
+<meta http-equiv="refresh" content="0; url=https://bicycletravellers.com/info/bike-touring-food.html" />
 <div class="page-break"></div>
 
 1. TOC
